@@ -24,3 +24,7 @@
 * chromebooksrracist.github.io
 * normalwebsite.github.io
 * ???.github.io
+# Embeded unblocked games in google sites
+* https://sites.google.com/uckfield.college/justsomeunblockedgames/home
+# Embeding websites
+* idev.games
